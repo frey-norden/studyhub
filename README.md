@@ -6,4 +6,5 @@ For example, at Haaga-Helia (my university) we have to go to the MyNet, or Moodl
 
 This idea originated from the horoscope page I made to read my daily horoscopes on different sites. It became quite time consuming to do a search for the different pages. So, I just made a page of my own. 
 I found this to be pretty convenient. The page was fairly simple to make and employs Bootstrap CSS and JS, making it a responsive web page. I intend to test on mobile devices and further refine the design. For now, though, I wanted to get these uploaded onto github where I can access them easily whether I am at home or on the school's computer system - or any other connected device for that matter. 
-Clone and Enjoy. 
+
+##Clone and Enjoy. 
